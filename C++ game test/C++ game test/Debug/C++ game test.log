@@ -1,0 +1,32 @@
+﻿  C++ game test.cpp
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(18): error C3646: 'Locations': unknown override specifier
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(18): error C2143: syntax error: missing ',' before '['
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(18): error C2143: syntax error: missing ')' before ';'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(18): error C2238: unexpected token(s) preceding ';'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(270): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(270): error C2228: left of '.ToString' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(275): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(275): error C2228: left of '.LeaveRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(278): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(278): error C2228: left of '.NewRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(287): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(287): error C2228: left of '.LeaveRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(290): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(290): error C2228: left of '.NewRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(299): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(299): error C2228: left of '.LeaveRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(302): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(302): error C2228: left of '.NewRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(311): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(311): error C2228: left of '.LeaveRoom' must have class/struct/union
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(314): error C2039: 'Locations': is not a member of 'Map'
+  c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(14): note: see declaration of 'Map'
+c:\users\georg\documents\visual studio 2015\projects\c++ game test\c++ game test\c++ game test.cpp(314): error C2228: left of '.NewRoom' must have class/struct/union
